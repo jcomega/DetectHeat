@@ -73,7 +73,7 @@ FIXDEPS=fixDeps
 
 # The following macros may be used in the pre and post step lines
 Device=PIC18LF14K22
-ProjectDir="C:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat"
+ProjectDir="D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat"
 ConfName=default
 ImagePath="dist\default\${IMAGE_TYPE}\DetectHeat.${IMAGE_TYPE}.${OUTPUT_SUFFIX}"
 ImageDir="dist\default\${IMAGE_TYPE}"

@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------------------------------------------------------------------------------
 /*! \file main.c
- *	\brief File definition for the project BlueCom
+ *	\brief File definition for the project DetectHeat
  *  \version v0.0.0
  *  \date 05/05/12
  *  \author Jean-Christophe Papelard
@@ -10,7 +10,7 @@
 //		version	|  Date		|  Author   		| 	Modification
 //--------------------------------------------------------------------------------------------------------------------------------------------
 //		v0.0.1	|  05/05/12	| Jean-Christophe Papelard	|	Creation
-//		v1.0.0	|  11/05/13	| Jean-Christophe Papelard	|	First final version : 1 relay output version and 1 relay + RBG led output
+//		v1.0.0	|  11/02/14	| Jean-Christophe Papelard	|	First final version
 //--------------------------------------------------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------------------------------------------------
 //	External dependency definition
