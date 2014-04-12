@@ -1,0 +1,14 @@
+Error[1105] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 50 : symbol 'PWM_Value' has not been defined
+Error[1129] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 50 : [] operator requires a pointer and an integer as operands
+Error[1101] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 50 : lvalue required
+Error[1105] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 94 : symbol 'PWM_Value' has not been defined
+Error[1129] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 94 : [] operator requires a pointer and an integer as operands
+Error[1105] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 95 : symbol 'PWM_Value' has not been defined
+Error[1129] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 95 : [] operator requires a pointer and an integer as operands
+Error[1105] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 96 : symbol 'PWM_Value' has not been defined
+Error[1129] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 96 : [] operator requires a pointer and an integer as operands
+Error[1105] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 131 : symbol 'PWM_Value' has not been defined
+Error[1129] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 131 : [] operator requires a pointer and an integer as operands
+Error[1101] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 131 : lvalue required
+Error[1105] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 152 : symbol 'PWM_Value' has not been defined
+Error[1129] D:\CloudStation\Projets_JC\DetectHeat\DetectHeat_Electronic_Board_Software\DetectHeat\Sources\BC_pwm.c 152 : [] operator requires a pointer and an integer as operands
