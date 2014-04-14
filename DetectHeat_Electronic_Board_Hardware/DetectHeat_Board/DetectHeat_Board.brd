@@ -3170,12 +3170,12 @@ design rules under a new name.</description>
 <attribute name="NAME" x="42.291" y="22.987" size="1.016" layer="26" ratio="12" rot="SMR90"/>
 <attribute name="VALUE" x="41.0972" y="21.1328" size="2.0828" layer="28" ratio="10" rot="SMR90"/>
 </element>
-<element name="U1" library="Composants_Actif_Lib" package="SOP65P780X200-20N" value="PIC18F14K22-I/SS" x="29.21" y="24.13" smashed="yes">
+<element name="U1" library="Composants_Actif_Lib" package="SOP65P780X200-20N" value="PIC18LF14K22-I/SS" x="29.21" y="24.13" smashed="yes">
 <attribute name="PACKAGE" value="SSOP-28" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
-<attribute name="OC_NEWARK" value="07P9677" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="PIC18F14k22-I/SS" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
+<attribute name="OC_NEWARK" value="" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="PIC18LF14k22-I/SS" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER" value="Microchip" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
-<attribute name="OC_FARNELL" value="1778464" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
+<attribute name="OC_FARNELL" value="1770704" x="63.5" y="-11.43" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="29.7434" y="19.0754" size="1.016" layer="25" ratio="12" rot="SR0"/>
 <attribute name="VALUE" x="23.4696" y="18.034" size="2.0828" layer="27" ratio="10" rot="SR0"/>
 </element>

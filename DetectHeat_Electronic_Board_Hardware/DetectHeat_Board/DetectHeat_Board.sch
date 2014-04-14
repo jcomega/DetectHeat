@@ -322,7 +322,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="PIC18F14K22-I/SS">
+<deviceset name="PIC18LF14K22-I/SS">
 <description>Flash Microcontrollers</description>
 <gates>
 <gate name="A" symbol="PIC18F14K22-I/SS" x="0" y="0"/>
@@ -353,9 +353,9 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="MPN" value="PIC18F14k22-I/SS" constant="no"/>
-<attribute name="OC_FARNELL" value="1778464" constant="no"/>
-<attribute name="OC_NEWARK" value="07P9677" constant="no"/>
+<attribute name="MPN" value="PIC18LF14k22-I/SS" constant="no"/>
+<attribute name="OC_FARNELL" value="1770704" constant="no"/>
+<attribute name="OC_NEWARK" value="" constant="no"/>
 <attribute name="PACKAGE" value="SSOP-28" constant="no"/>
 <attribute name="SUPPLIER" value="Microchip" constant="no"/>
 </technology>
@@ -10280,7 +10280,7 @@ Source: http://optoelectronics.perkinelmer.com/content/Datasheets/DTS_Photocells
 <parts>
 <part name="TEMP_COLD" library="Composants_Actif_Lib" deviceset="MCP9700A-E/TO" device=""/>
 <part name="TEMP_HOT" library="Composants_Actif_Lib" deviceset="MCP9700A-E/TO" device=""/>
-<part name="U1" library="Composants_Actif_Lib" deviceset="PIC18F14K22-I/SS" device=""/>
+<part name="U1" library="Composants_Actif_Lib" deviceset="PIC18LF14K22-I/SS" device=""/>
 <part name="SG3" library="buzzer" deviceset="F/EE17P" device=""/>
 <part name="BATTERY_CR2032" library="Composants_Connectiques_Lib" deviceset="BATTERY_1236_C" device=""/>
 <part name="LED1" library="led" deviceset="LED" device="CHIPLED_0805" value="Super green LED"/>
